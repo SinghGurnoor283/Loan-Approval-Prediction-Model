@@ -16,9 +16,9 @@ This project contains a machine learning model and Streamlit web application to 
 
 | Model                | Accuracy (Test Set) |
 |----------------------|---------------------|
-| Logistic Regression  | ~98.2%              |
-| SVM (Linear Kernel)  | ~98.0%              |
-| Random Forest (Best) | ~99.8%              |
+| Logistic Regression  | ~90.2%              |
+| SVM (Linear Kernel)  | ~91.0%              |
+| Random Forest (Best) | ~98.8%              |
 
 👉 **Random Forest** was selected for deployment due to its superior accuracy.
 
